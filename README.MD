@@ -5,7 +5,6 @@
 - 💸 Na vida passada fui contador, mas não de histórias.
 - 🎓 (2018~2021) Bacharel em Ciências Contábeis - USJT
 - 🎓 (2023~Atualmente) Formação Fullstack - Rocketeat
-
 - 🎓 (2024~Atualmente) Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica
 
 - 💼 Trabalhando atualmente como **Desenvolvedor Freelancer Jr.** na [Fomentum:tech](https://website-fomentum-tech.vercel.app/)
@@ -37,7 +36,3 @@
 | **LaslesVPN**      | Elaboração de um site de empresa especializada em VPN com o intuito de treinar habilidades em HTML, CSS e CSS responsivo. | https://jhowjon.github.io/landing-page-VPN/       |
 | **Netbook Social** | Elaboração de um site de Redes Sociais com o intuito de treinar habilidades em HTML, CSS e CSS responsivo.                | https://jhowjon.github.io/social-network-landing/ |
 | **Register Popup** | Elaboração de um pop-up com o intuito de treinar CSS responsivo.                                                          | https://jhowjon.github.io/register-popup/         |
-
-- **Netbook Social** — Website responsivo - https://jhowjon.github.io/social-network-landing/
-- **LaslesVPN** — Website responsivo - https://jhowjon.github.io/landing-page-VPN/
-- **Register Popup** — Popup de cadastro responsivo - https://jhowjon.github.io/register-popup/
