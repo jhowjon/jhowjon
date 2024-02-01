@@ -4,7 +4,7 @@
 
 - 💸 Na vida passada fui contador, mas não de histórias.
 - 🎓 (2018~2021) Bacharel em Ciências Contábeis - USJT
-- 🎓 (2023~Atualmente) Formação Fullstack - Rocketeat
+- 🎓 (2023~Atualmente) Formação Fullstack - Rocketseat
 - 🎓 (2024~Atualmente) Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica
 
 - 💼 Trabalhando atualmente como **Desenvolvedor Freelancer Jr.** na [Fomentum:tech](https://website-fomentum-tech.vercel.app/)
