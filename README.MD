@@ -7,7 +7,7 @@
 - 🎓 (2023~Atualmente) Formação Fullstack - Rocketseat
 - 🎓 (2024~Atualmente) Tecnólogo em Análise e Desenvolvimento de Sistemas - USJT
 
-- 💼 Trabalhando atualmente como **Desenvolvedor Junior.** na [LANUARI](https://https://www.lanuari.studio/)
+- 💼 Trabalhando atualmente como **Desenvolvedor Junior ** na [Lanuari](https://www.lanuari.studio/)
 
 ### 🚀 Minhas Skills
 
